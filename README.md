@@ -4,7 +4,7 @@
 
 - 土木学会論文集の参考文献リスト用CSLファイルです。
 - zoteroに取り込むことができます。具体的な手順はこちらに書いています。
-    - https://fnakai.web.nitech.ac.jp/wp-admin/post.php?post=912&action=edit
+    - https://fnakai.web.nitech.ac.jp/?p=912
 - 参考文献は文中に出現した順に番号を振り、その引用箇所で上付き右括弧付き数字をつけます。さらに、原稿の末尾では、これらの数字順で参考文献リストを載せます。
 - こちらの原稿作成例にしたがっています。ただし、日本語部分のみです。
     -  https://committees.jsce.or.jp/jjsce/pform
